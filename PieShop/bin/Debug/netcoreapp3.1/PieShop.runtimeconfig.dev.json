@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dimas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dimas\\.nuget\\packages"
+    ]
+  }
+}
