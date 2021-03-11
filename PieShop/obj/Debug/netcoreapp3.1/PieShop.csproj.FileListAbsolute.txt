@@ -34,3 +34,9 @@ D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\PieShop.dll
 D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\PieShop.pdb
 D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\PieShop.genruntimeconfig.cache
 D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\PieShop.csproj.CopyComplete
+D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\PieShop.csprojAssemblyReference.cache
+D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\List.cshtml.g.cs
+D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\source\repos\PS\PieShop\bin\Debug\netcoreapp3.1\libman.json
