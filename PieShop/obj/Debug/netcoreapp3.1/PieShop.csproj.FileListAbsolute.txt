@@ -80,3 +80,4 @@ D:\source\repos\PS\PieShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.d
 D:\source\repos\PS\PieShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\source\repos\PS\PieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\source\repos\PS\PieShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\source\repos\PS\PieShop\obj\Debug\netcoreapp3.1\Razor\Views\Pie\Details.cshtml.g.cs
